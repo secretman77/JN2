@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
- <a href="#sobre-o-sistema">Sobre o Sistema</a> •
- <a href="#recursos">Recursos</a> •
- <a href="#requisitos-necessários">Requisitos Necessários</a> •
+ <a href="#sobre-o-sistema">Sobre o Sistema</a> 
+ <a href="#recursos">Recursos</a> 
+ <a href="#requisitos-necessários">Requisitos Necessários</a> 
  <a href="#desenvolvedor">Desenvolvedor</a>
 </p>
 
