@@ -1,6 +1,7 @@
 <?php
 
 // ***Configuração do Banco de Dados***
+// ***Gratidão à comunidade DEV! Desenvolvido por Marcelo Matos Machado***
 
 require 'config/banco.php';
 $id = null;
