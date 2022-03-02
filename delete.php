@@ -1,6 +1,8 @@
 <?php
 require 'config/banco.php';
 
+<!-- Gratidão à comunidade DEV! Desenvolvido por Marcelo Matos Machado -->
+
 $id = 0;
 
 if(!empty($_GET['id']))
