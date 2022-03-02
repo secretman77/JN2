@@ -1,6 +1,9 @@
 
 
 <?php
+
+<!-- Gratidão à comunidade DEV! Desenvolvido por Marcelo Matos Machado -->
+
 require 'config/banco.php';
 
 //***Erros de validação + condições para chamada post***
