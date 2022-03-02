@@ -1,5 +1,5 @@
 <?php
-
+<!-- Gratidão à comunidade DEV!Desenvolvido por Marcelo Matos Machado -->
 require 'config/banco.php';
 
 $id = null;
